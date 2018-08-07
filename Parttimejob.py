@@ -35,25 +35,6 @@ def GetMoney():
     return whatsup
 
 
-# In[3]:
-
-
-#hatsup={}
-#aid=[]
-#ettlement=[]
-#oney = []
-#oney = soup.select('.jzList-salary span')
-#or money in money:
-#   Money.append(money.text)
-#or i in range(0,80):
-#   if i%2==0:
-#       paid.append(Money[i])
-#   else:
-#       settlement.append(Money[i])
-#hatsup['paid']=paid
-#hatsup['settlement']=settlement
-
-
 # In[4]:
 
 
